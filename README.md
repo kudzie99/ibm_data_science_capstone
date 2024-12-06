@@ -1,2 +1,2 @@
 # ibm_data_science_capstone
-my IBM Data Science Capstone Peoject
+My IBM Data Science Capstone Project
